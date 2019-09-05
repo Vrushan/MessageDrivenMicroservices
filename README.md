@@ -2,4 +2,4 @@
 
 To check messages we need RabbitMQ
 
-Please configure Rabbitmq properties in configure files
+install Rabbitmq in local machine and configure channels as per the code
